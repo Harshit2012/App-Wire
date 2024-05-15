@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Wire: Finds error in python code given by user</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="logo.jpg">
+</head>
+<body>
+    <div class="container">
+        <img id="logo" src="logo.jpg" alt="No internet!">
+        <h1>App Wire</h1>
+        <p>Finds error in python code given by user</p>
+        <textarea id="input" rows="10" placeholder="Paste your Python code here..."></textarea>
+        <button onclick="findErrors()">Find Errors</button>
+        <div class="output" id="output"></div>
+        <div id="error-message"></div>
+        <div id="solution"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
