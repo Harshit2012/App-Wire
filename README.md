@@ -5,6 +5,11 @@
 # App-Wire🔍
 Finds error in python code given by user.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/App-Wire?tab=MIT-1-ov-file#readme)
+![GitHub Release](https://img.shields.io/github/v/release/harshit2012/app-wire)
+![Forks](https://img.shields.io/github/forks/harshit2012/app-wire)
+![Stars](https://img.shields.io/github/stars/harshit2012/app-wire)
+
 ## Features✨
 - Instant error showing
 - Instant solution giving
