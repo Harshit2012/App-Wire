@@ -17,3 +17,6 @@ Finds error in python code given by user.
 
 ## Preview
 ![Screenshot (57)](https://github.com/Harshit2012/App-Wire/assets/105143145/f3afdeb2-c9e9-4ae3-ac2d-d1e70194ea10)
+
+## License
+This repository is under [MIT License](https://github.com/Harshit2012/App-Wire#MIT-1-ov-file)
