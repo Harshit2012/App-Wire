@@ -1,6 +1,7 @@
 <p align="center">
   <img height="200" width="200" src="logo.jpg">
 </p>
+
 # App-Wire🔍
 Finds error in python code given by user.
 
